@@ -1,0 +1,34 @@
+table {
+    background-color: lightslategray;
+}
+
+input {
+    height: 50px;
+    width: 210px;
+}
+
+.num {
+    background-color: lightgray;
+}
+
+#clear {
+    background-color: red;
+    color: white;
+}
+
+.op {
+    background-color: black;
+    color: white;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+}
+
+td {
+    text-align: center;
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+}
